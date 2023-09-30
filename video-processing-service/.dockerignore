@@ -1,0 +1,3 @@
+### Similar to .gitignore, but for Dockerfiles.
+
+node_modules
